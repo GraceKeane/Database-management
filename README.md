@@ -15,7 +15,7 @@ Designed and constructed a relational database that can to be deployed on the cl
 
 6) Run the sql file in the mySQL console window
 
-7) Open phpmyadmin and check if data is correct(must see blobs for pictures)
+7) Open phpmyadmin and check if data is correct (must see blobs for pictures)
 
 8) Put emps.php and image_emps.php into c:/wamp64/www
 
